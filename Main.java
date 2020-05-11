@@ -1,14 +1,11 @@
-package com.company;
-
-
+import java.util.*;
 
 
 
 class Main {
-
     public static void main(String[] args){
-		private static String swiat="Witaj java";
+        String swiat = "Witaj java";
+        Scanner myInput = new Scanner(System.in);
         System.out.println(swiat);
     }
 }
-
